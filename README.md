@@ -1,3 +1,5 @@
+[View on Colab](https://colab.research.google.com/github/mayhd3/DIPC/blob/master/topinsulators.ipynb)
+
 Requirements:
 
 [C2DB](https://cmr.fysik.dtu.dk/c2db/c2db.html)
