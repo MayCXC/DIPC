@@ -1,8 +1,12 @@
-Requirements:
+[View on Colab](https://colab.research.google.com/github/mayhd3/DIPC/blob/master/topinsulators.ipynb)
+
+(Press Ctrl+F9 and scroll down.)
+
+### Requirements:
 
 [C2DB](https://cmr.fysik.dtu.dk/c2db/c2db.html)
 
-Ubuntu:
+Ubuntu LTS:
 ```
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt install python3.9 python3.9-dev lixc4 libxc-dev libopenblas-base libopenblas-dev
