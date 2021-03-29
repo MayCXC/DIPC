@@ -95,8 +95,9 @@ headers = [
     'ΔE',       #11
     'R'         #12
 ]
-table_headers_indices = [0,4,8,10,11,12] # Which headers to display in the table
 print(tabulate(best, headers)) # Print a table of the pairs with their UIDs
+
+table_headers_indices = [0,4,8,10,11,12] # Which headers to display in the table
 
 def bands_with_table(pairs): # Plot each pair of candidates, with bars for the band gaps, and a table for other stats
     ax = plt.subplot(label=str(id(pairs)))
