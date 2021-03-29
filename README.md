@@ -12,9 +12,7 @@ python3.9 -m pip install --upgrade setuptools pip distlib
 Python:
 `pip install --upgrade --user ase asr gpaw`
 
-Numpy, Pandas, Matplotlib, Tabulate, Pickle
-
-Jupyter Notebook
+Numpy, Pandas, Matplotlib, Tabulate, Pickle, Jupyter Notebook
 
 WSL:
 [VcXsrv](https://sourceforge.net/projects/vcxsrv/files/latest/download)
