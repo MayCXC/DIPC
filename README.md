@@ -4,7 +4,7 @@
 
 [C2DB](https://cmr.fysik.dtu.dk/c2db/c2db.html)
 
-Ubuntu:
+Ubuntu LTS:
 ```
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt install python3.9 python3.9-dev lixc4 libxc-dev libopenblas-base libopenblas-dev
