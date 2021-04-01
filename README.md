@@ -6,6 +6,8 @@
 
 [C2DB](https://cmr.fysik.dtu.dk/c2db/c2db.html)
 
+#### For running cells outside of the jupyter kernel:
+
 Ubuntu LTS:
 ```
 sudo add-apt-repository ppa:deadsnakes/ppa
