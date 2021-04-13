@@ -11,7 +11,7 @@
 Ubuntu LTS:
 ```
 sudo add-apt-repository ppa:deadsnakes/ppa
-sudo apt install python3.9 python3.9-dev lixc4 libxc-dev libopenblas-base libopenblas-dev
+sudo apt install python3.9 python3.9-dev libxc4 libxc-dev libopenblas-base libopenblas-dev
 python3.9 -m pip install --upgrade setuptools pip distlib
 ```
 
