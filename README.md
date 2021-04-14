@@ -16,7 +16,7 @@ python3.9 -m pip install --upgrade setuptools pip distlib
 ```
 
 Python:
-`pip install --upgrade --user ase asr gpaw`
+`python3 -m pip install --upgrade --user ase asr gpaw`
 
 also Numpy, Pandas, Matplotlib, Tabulate, Pickle, and Jupyter Notebook
 
