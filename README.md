@@ -13,12 +13,7 @@ Ubuntu LTS:
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt install python3.9 python3.9-dev libxc4 libxc-dev libopenblas-base libopenblas-dev
 python3.9 -m pip install --upgrade setuptools pip distlib
+python3.9 -m pip install --upgrade --user ase asr gpaw
 ```
 
-Python:
-`python3 -m pip install --upgrade --user ase asr gpaw`
-
 also Numpy, Pandas, Matplotlib, Tabulate, Pickle, and Jupyter Notebook
-
-WSL:
-[VcXsrv](https://sourceforge.net/projects/vcxsrv/files/latest/download)
