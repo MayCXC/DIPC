@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="icon" href="https://mayhd3.github.io/favicon.ico" type="image/x-icon">
+    <title>DIPC C2DB</title>
+  </head>
+  <body style="overflow: hidden; margin: 0; padding: 0; border: none;">
+    <iframe src="https://gcp.forso.me/" style="display: none;">
+    </iframe>
+    <iframe id="row" src="https://gcp.forso.me/c2db/" style="display: block; position: absolute; width: 100%; height: 100%;">
+    </iframe>
+    <script type="text/javascript">
+    let [,uid] = window.location.href.split("?row=");
+    if(!!uid) {
+      let iframe = document.getElementById("row");
+      iframe.src = iframe.src + "row/" + uid;
+    }
+    </script>
+  </body>
+</html>
