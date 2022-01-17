@@ -1,4 +1,4 @@
-[View on Colab](https://colab.research.google.com/github/mayhd3/DIPC/blob/master/topinsulators.ipynb)
+[View on Colab](https://colab.research.google.com/github/MayCXC/DIPC/blob/master/topinsulators.ipynb)
 
 (Press Ctrl+F9 and scroll down.)
 
@@ -17,7 +17,7 @@ python3.9 -m pip install --upgrade --user ase asr gpaw
 also Numpy, Pandas, Matplotlib, Tabulate, IPywidgets and Jupyter Notebook.
 
 ### Web Interface:
-https://mayhd3.github.io/c2db
+https://maycxc.github.io/c2db
 
 ### Credits:
 
