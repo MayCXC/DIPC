@@ -6,7 +6,8 @@
 
 [C2DB](https://cmr.fysik.dtu.dk/c2db/c2db.html)
 
-Ubuntu LTS:
+Dependencies may be installed with the following commands on Ubuntu LTS:
+
 ```
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt install python3.9 python3.9-dev libxc4 libxc-dev libopenblas-base libopenblas-dev
@@ -14,7 +15,7 @@ python3.9 -m pip install --upgrade setuptools pip distlib
 python3.9 -m pip install --upgrade --user ase asr gpaw
 ```
 
-also Numpy, Pandas, Matplotlib, Tabulate, IPywidgets and Jupyter Notebook.
+Numpy, Pandas, Matplotlib, Tabulate, IPywidgets and Jupyter Notebook are also required.
 
 ### Web Interface:
 https://maycxc.github.io/c2db
